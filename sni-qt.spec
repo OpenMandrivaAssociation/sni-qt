@@ -1,7 +1,7 @@
 Summary:	Qt4 plugin that turns QSystemTrayIcons into status notifiers
 Name:		sni-qt
 Version:	0.2.6
-Release:	2
+Release:	3
 License:	LGPLv3+
 Group:		System/Libraries
 Url:		https://launchpad.net/sni-qt
